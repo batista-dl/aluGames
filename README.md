@@ -27,5 +27,6 @@ O aluGames é um **dashboard de jogos** que permite:
 - Overlay visual para jogos alugados  
 - Botões interativos para alugar/devolver  
 - Interface adaptada para dispositivos móveis
-
+- 
+Acesse: https://alugames-tau-rose.vercel.app/
 
